@@ -1,0 +1,32 @@
+{
+  "gellenricsi": {
+    "name": "gellenricsi",
+    "email": "ricsi16555@gmail.com",
+    "password": "12345678",
+    "shippingAddress": "9942 Szalafő"
+  },
+  "ElonMusk1": {
+    "name": "ElonMusk1",
+    "email": "elon@tesla.com",
+    "password": "Elonmask",
+    "shippingAddress": "CA"
+  },
+  "admin": {
+    "name": "admin",
+    "email": "admin@gmail.com",
+    "password": "admin",
+    "shippingAddress": "admin"
+  },
+  "AtlantX": {
+    "name": "AtlantX",
+    "email": "atlantx@gmail.com",
+    "password": "atlantx",
+    "shippingAddress": "9700 Szombathely"
+  },
+  "baloghcini": {
+    "name": "baloghcini",
+    "email": "baloghcini03@gmail.com",
+    "password": "nemtudom",
+    "shippingAddress": "9942 Szalafő, Felsőszer 19/A"
+  }
+}

@@ -1,0 +1,47 @@
+[
+  {
+    "name": "T-Shirt",
+    "price": 10.0,
+    "category": "Clothing"
+  },
+  {
+    "name": "Tablet",
+    "price": 250.0,
+    "category": "Electronic"
+  },
+  {
+    "name": "Pullover",
+    "price": 50.0,
+    "category": "Clothing"
+  },
+  {
+    "name": "Romeo and Julia",
+    "price": 30.0,
+    "category": "Book"
+  },
+  {
+    "name": "iPhone 11",
+    "price": 600.0,
+    "category": "Electronic"
+  },
+  {
+    "name": "iPhone 15",
+    "price": 1200.0,
+    "category": "Electronic"
+  },
+  {
+    "name": "Babel",
+    "price": 25.0,
+    "category": "Book"
+  },
+  {
+    "name": "Nike Air Force 1 - Luis Vuitton Edition",
+    "price": 3000.0,
+    "category": "Clothing"
+  },
+  {
+    "name": "Pants",
+    "price": 5.0,
+    "category": "Clothing"
+  }
+]
